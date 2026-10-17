@@ -1,9 +1,9 @@
 #!/bin/bash
 # Command line version of the game Mastermind or Code Braker
-# or alson known as "Byki i korovy".
+# or also known as Bulls and Cows (Byki i korovy).
 
 echo ===============================================
-echo Biky i korovy
+echo "Biky i korovy (Bulls and Cows)"
 echo
 echo Rules.
 echo "Given: code *****"
